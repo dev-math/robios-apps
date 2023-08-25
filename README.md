@@ -4,15 +4,15 @@ Este repositório contém as aplicações desenvolvidas durante o projeto de ini
 
 ## 📂 Estrutura do Repositório
 
-- 🎮 **[Bingo App](https://github.com/dev-math/robios-apps/blob/main/src/main/java/io/humanrobotics/api/games/Bingo.java)**: Uma aplicação que permite ao Robios atuar como um "dealer" em um jogo de bingo real.
+- 🎮 **[Bingo](https://github.com/dev-math/robios-apps/blob/main/src/main/java/io/humanrobotics/api/games/Bingo.java)**: Uma aplicação que permite ao Robios atuar como um "dealer" em um jogo de bingo real.
 
-- 🥤 **[Jogo do Copo App](https://github.com/dev-math/robios-apps/blob/main/src/main/java/io/humanrobotics/api/games/ShellGame.java)**: Um aplicativo que implementa o clássico jogo do copo, desafiando os jogadores a encontrar o copo com o item escondido.
+- 🥤 **[Jogo do Copo](https://github.com/dev-math/robios-apps/blob/main/src/main/java/io/humanrobotics/api/games/ShellGame.java)**: Um aplicativo que implementa o clássico jogo do copo, desafiando os jogadores a encontrar o copo com o item escondido.
 
-- 🧩 **[Quebra-Cabeças App](https://github.com/dev-math/robios-apps/blob/main/src/main/java/io/humanrobotics/api/games/Puzzle.java)**: Um aplicativo cultural que orienta os idosos a montarem quebra-cabeças de obras de arte utilizando o aplicativo Google Arts & Culture.
+- 🧩 **[Quebra-Cabeças](https://github.com/dev-math/robios-apps/blob/main/src/main/java/io/humanrobotics/api/games/Puzzle.java)**: Um aplicativo cultural que orienta os idosos a montarem quebra-cabeças de obras de arte utilizando o aplicativo Google Arts & Culture.
 
 ## ⚙️ Configuração
 
-**Bingo App**: Antes de executar o Bingo App, lembre-se de ajustar as variáveis `API Key` e `Robot Id` no código para permitir a comunicação com o robô.
+**Bingo**: Antes de executar o Bingo, lembre-se de ajustar as variáveis `API Key` e `Robot Id` no código para permitir a comunicação com o robô.
 
 **Outras Aplicações**: As aplicações posteriores utilizam uma instância da classe `Robot` para interagir com o robô. Certifique-se de configurar as variáveis apropriadas dentro do código para se conectar ao robô ao utilizar essas aplicações.
 
